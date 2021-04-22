@@ -28,7 +28,7 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [API Call](#API)
+- [API Call](#api)
 
 <!-- OVERVIEW -->
 
