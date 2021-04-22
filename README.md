@@ -77,7 +77,7 @@ $ npm start
 ```
 ## API Call
 
--[MetaWeather](#https://www.metaweather.com/api/)
+- API [MetaWeather](#https://www.metaweather.com/api/)
 
 ## Contact
 
