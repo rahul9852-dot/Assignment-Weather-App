@@ -28,7 +28,7 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [API Call Note](#API)
+- [API Call](#API)
 
 <!-- OVERVIEW -->
 
@@ -75,6 +75,8 @@ $ npm install
 # Run the app
 $ npm start
 ```
+## API Call
+
 -[MetaWeather](#https://www.metaweather.com/api/)
 
 ## Contact
