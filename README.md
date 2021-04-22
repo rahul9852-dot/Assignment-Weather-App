@@ -3,7 +3,7 @@
 <h1 align="center">Weather app</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a Assignment from  <a href="http://devchallenges.io" target="_blank">simpluslabs</a>.
 </div>
 
 <div align="center">
@@ -14,10 +14,6 @@
     <span> | </span>
     <a href="https://github.com/leoikeh99/weather-app">
       Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv">
-      Challenge
     </a>
   </h3>
 </div>
@@ -81,5 +77,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@leoikeh99](https://github.com/leoikeh99)
-- Twitter [@wazzadev](https://twitter.com/wazza_dev)
+- GitHub [@rahul9852](https://github.com/leoikeh99)
+
