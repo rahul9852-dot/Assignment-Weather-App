@@ -75,7 +75,7 @@ $ npm install
 # Run the app
 $ npm start
 ```
-### API Call
+## API Call
 
 - [MetaWeather](https://www.metaweather.com/api/)
 
