@@ -3,16 +3,16 @@
 <h1 align="center">Weather app</h1>
 
 <div align="center">
-   Solution for a Assignment from  <a href="http://devchallenges.io" target="_blank">simpluslabs</a>.
+   Solution for a Assignment from  <a href="#" target="_blank">simpluslabs</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://weather-app1000.netlify.app/">
+    <a href="https://newweather-app.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/leoikeh99/weather-app">
+    <a href="https://github.com/rahul9852-dot/Assignment-Weather-App">
       Solution
     </a>
   </h3>
@@ -66,7 +66,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/leoikeh99/weather-app
+$ https://github.com/rahul9852-dot/Assignment-Weather-App.git
 
 # Install dependencies
 $ npm install
@@ -77,5 +77,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@rahul9852](https://github.com/leoikeh99)
+- GitHub [@rahul9852](https://github.com/rahul9852-dot)
 
